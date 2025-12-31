@@ -1,4 +1,4 @@
-## AdventJS - Soluciones a los Retos de Midudev
+## 🎄 AdventJS - Soluciones a los Retos de Midudev
 Un repositorio que recopila mis soluciones personales a los retos de programación del calendario de adviento AdventJS creado por Midudev. Este proyecto documenta mi aprendizaje y evolución en resolución de problemas algorítmicos.
 
 📋 Sobre este Repositorio
