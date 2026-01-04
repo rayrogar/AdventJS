@@ -1,5 +1,7 @@
 
-/**Reto #11: 📹 Regalos sin vigilancia
+/**
+ * Reto #11: 📹 Regalos sin vigilancia
+ * 
  * El grinch quiere robar los regalos de Navidad del almacén. Para ello necesita saber qué regalos no tienen vigilancia.
 
 El almacén se representa como un array de strings (string[]), donde cada regalo (*) está protegido si su posición está junto a una cámara (#). 

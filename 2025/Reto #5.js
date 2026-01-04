@@ -1,4 +1,7 @@
-/*Los elfos tienen un timestamp secreto: Es la fecha y hora exacta en la que Papá Noel despega con el trineo 🛷 para repartir regalos por el mundo. Pero en el Polo Norte 
+/**
+ * Reto #5: ⏱️ La cuenta atrás para el despegue
+ * 
+ * Los elfos tienen un timestamp secreto: Es la fecha y hora exacta en la que Papá Noel despega con el trineo 🛷 para repartir regalos por el mundo. Pero en el Polo Norte 
 usan un formato rarísimo para guardar la hora: YYYY*MM*DD@HH|mm|ss NP (ejemplo: 2025*12*25@00|00|00 NP).
 
 Tu misión es escribir una función que reciba:

@@ -1,4 +1,5 @@
-/**  📨 Profundidad de la magia navideña
+/** 
+ * Reto #10: 📨 Profundidad de la magia navideña
  *  
  * En el Polo Norte, Santa Claus está revisando las cartas mágicas 📩✨ que recibe de los niños de todo el mundo. Estas cartas usan un antiguo 
  * lenguaje navideño en el que los corchetes [ y ] representan la intensidad del deseo. 
